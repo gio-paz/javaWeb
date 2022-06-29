@@ -6,11 +6,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="G:/maestria udenar/Conectar una AppWeb a un Servicio (Sprint boot)/Aplicación Web/AppWebSprint/json-20220320.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v10.0">
 		<attributes>
 			<attribute name="owner.project.facets" value="jst.web"/>
